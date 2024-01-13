@@ -5,6 +5,7 @@
 	border: solid 1px #DDDDDD;
     	border-radius: 4px;
 	text-align: right;
+	align-items: center;
 }
 
 section.filters button {
