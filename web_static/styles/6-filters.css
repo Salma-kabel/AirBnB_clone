@@ -27,6 +27,7 @@ section.filters button:hover{
 	height: 100%;
 	width: 25%;
 	border-right: solid 1px #DDDDDD;
+	margin-left: 30px;
     	float: left;
 	text-align: left;
 }
