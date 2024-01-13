@@ -70,11 +70,18 @@ h4 {
     	visibility: visible;
 }
 
+.amenities li {
+	padding-top: 30;
+	padding-left: 30px;
+}
+
 ul {
     list-style-type: none;
     line-height: 25px;
+    padding-top: 0;
 }
 
 h2 {
     font-size: 16px;
+    padding-left: 15px;
 }
