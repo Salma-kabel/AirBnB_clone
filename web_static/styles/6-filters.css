@@ -52,7 +52,7 @@ h4 {
 	margin-top: 3px;
 }
 .popover {
-	position: relative;
+	position: absolute;
 	background-color: #FAFAFA;
 	border: solid #DDDDDD 1px;
     	border-radius: 4px;
