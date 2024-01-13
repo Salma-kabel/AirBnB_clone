@@ -70,19 +70,25 @@ h4 {
     	visibility: visible;
 }
 
-.amenities li {
+.amenities ul {
 	margin-top: 30px;
 	padding-left: 45px;
+	margin-bottom: 30px
 }
 
-ul {
-    	list-style-type: none;
-    	line-height: 25px;
+li {
+	list-style-type: none;
+	line-height: 25px;
+}
+
+.inside {
+	padding-left: 45px;
     	padding-top: 0;
+	padding-bottom: 30px;
 }
 
 h2 {
 	margin-top: 30px;
     	font-size: 16px;
-    	padding-left: 15px;
+    	padding-left: 20px;
 }
