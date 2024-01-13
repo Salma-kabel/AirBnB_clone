@@ -70,6 +70,11 @@ h4 {
     	visibility: visible;
 }
 
+.amenities ul {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 30px;
+
 li{
 	list-style-type: none;
 }
