@@ -31,10 +31,9 @@ section.filters button:hover{
 	text-align: left;
 }
 
-.amenities{
+.filters .amenities{
 	height: 100%;
     	width: 25%;
-	border-right: solid 1px #DDDDDD;
     	float: left;
 	text-align: left;
 }
@@ -76,16 +75,16 @@ ul{
 	padding-bottom: 30px;
 }
 
-.amenities:hover > .popover{
+.filters .amenities:hover > .popover{
     	visibility: visible;
 }
 
-.amenities ul {
+.filters .amenities ul {
 	padding-top: 30px;
 	padding-bottom: 30px;
 }
 
-.amenities li {
+.filters .amenities li {
 	padding-left: 45px;
 }
 
@@ -96,3 +95,4 @@ h2 {
 	margin-top: 0px;
 	padding-top: 0px;
 }
+
